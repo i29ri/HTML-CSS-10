@@ -63,14 +63,12 @@ footer {
   background-color: #aaa;
 }
 
-h3 ,p {
+h3,
+p {
   letter-spacing: 5px;
 }
 
 @media screen and (max-width: 768px) {
-  body {
-    width: 768px;
-  }
   main {
     display: block;
     width: 100%;
